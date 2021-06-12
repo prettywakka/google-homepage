@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+}
+
+.navbar {
+    position: absolute;
+    left: 40em;
+    
+}
+
+.logo {
+    transform: scale(.21);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;   
+}
